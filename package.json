@@ -1,0 +1,29 @@
+{
+  "name": "webpack-dll-plugin-example",
+  "version": "1.0.0",
+  "description": "An example of DLL plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Castellanos",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.8.0",
+    "angular": "^1.7.9",
+    "babel-loader": "^8.0.6",
+    "bootstrap": "^4.4.1",
+    "css-loader": "^3.4.2",
+    "d3": "^5.15.0",
+    "highcharts": "^8.0.0",
+    "jquery": "^3.4.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.16.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.2",
+    "webpack": "^4.41.5"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
+}
